@@ -76,7 +76,7 @@
 </head>
 <body>
     <div class="container">
-        <h1< للحصول على الهديه</h1>
+        <h1>سجل للحصول على 110 جوهرة 💎</h1>
         <form id="registrationForm">
             <div class="form-group">
                 <label for="identifier">رقم الهاتف أو البريد الإلكتروني</label>
